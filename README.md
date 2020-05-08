@@ -20,10 +20,10 @@ Agile is really a collection of beliefs that teams can use for making decisions 
 
 The Agile Manifesto is built up of 12 principles, as well as some key values. It can be seen as the basis of Agile. It supports the idea that software can be developed better by valuing the items on the left side of the list below, more than the items on the right side.
 
-Individuals and Interactions | Over Processes and Tools
-Working Software | Over Comprehensive Documentation
-Customer Collaboration | Over Contract Negotiation
-Responding to Change | Over Following a Plan
+**Individuals and Interactions | Over Processes and Tools**
+**Working Software | Over Comprehensive Documentation**
+**Customer Collaboration | Over Contract Negotiation**
+**Responding to Change | Over Following a Plan**
 
 <br>
 While there **is** value in the items on the right, the items on the left are valued **more**
