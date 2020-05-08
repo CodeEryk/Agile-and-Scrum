@@ -20,10 +20,10 @@ Agile is really a collection of beliefs that teams can use for making decisions 
 
 The Agile Manifesto is built up of 12 principles, as well as some key values. It can be seen as the basis of Agile. It supports the idea that software can be developed better by valuing the items on the left side of the list below, more than the items on the right side.
 
-**Individuals and Interactions | Over Processes and Tools**
-**Working Software | Over Comprehensive Documentation**
-**Customer Collaboration | Over Contract Negotiation**
-**Responding to Change | Over Following a Plan**
+Individuals and Interactions | Over Processes and Tools
+**Working Software | Over Comprehensive Documentation
+Customer Collaboration | Over Contract Negotiation
+Responding to Change | Over Following a Plan
 
 <br>
 While there **is** value in the items on the right, the items on the left are valued **more**
@@ -99,11 +99,15 @@ Sprint helps teams to follow the agile principle of “delivering working softwa
 
 ![Representation of Scrum Sprints](https://startinfinity.s3.us-east-2.amazonaws.com/t/54ksa0Is7WiztNXeqL0fI0snREVVHLlcOZwLaSBH.png)
 
+**Image Source:** https://agdiwo.com/en/
+
 ## Sprint Planning
 
 Sprint planning, as the name suggests, is used to plan an upcoming sprint. Sprint planning is typically the first step in Scrum which creates the starting line for a sprint by setting the agenda and focal point. Sprint planning is a collaborative event where a number of things are decided. During sprint planning, the team answers some questions: What work can get done in this sprint (what is the sprint goal) and how will the chosen work get done? How long is the time box going to be? What is the starting point for the planned sprint going to be?
 
 ![Representation of Sprint Planning](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2017-03/Sprint%20Planning_0.png)
+
+**Image Source:** https://www.scrum.org/resources/what-is-sprint-planning
 
 ## Product Backlogs
 
@@ -152,4 +156,6 @@ The Development team consists of several members. These members work in a collab
 
 The larger a team size, the more difficult communication becomes between team members, making it more difficult to maintain a common purpose and create trust. The purpose of Scrum of Scrums is to arrange smaller, independent teams in order to reduce communication paths and therefore maintain a common purpose.
 
-![Visual Representation for Scrum of Scrums](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-4206-3_53/MediaObjects/470826_1_En_53_Figa_HTML.jpg)
+![Visual Representation for Scrum of Scrums](https://www.agilest.org/wp-content/uploads/2016/05/scrum-of-scrums-scaling.png)
+
+**Image Source:** https://www.agilest.org/scaled-agile/scrum-of-scrums/
