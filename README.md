@@ -1,9 +1,7 @@
-# **Everything on Agile and Scrum!**
+# **Everything on Agile and Scrum !**
 
 ## What is Agile?
-
 <br>
-
 Agile consists of a number of different approaches to software development. 
 
 It is a process in which you work towards shorter term goals and getting them done, implementing them into the program allowing the client to use the program even though it’s not
@@ -21,14 +19,12 @@ The Agile Manifesto is built up of 12 principles, as well as some key values. It
 **Working Software** | **Over Comprehensive Documentation**
 **Customer Collaboration** | **Over Contract Negotiation**
 **Responding to Change** | **Over Following a Plan**
-
 <br>
-
 While there **is** value in the items on the right, the items on the left are valued **more**
 
 ## The 12 Principles of Agile
 
-**There are 12 prominent principles to consider for Agile. These principles are:**
+* **There are 12 prominent principles to consider for Agile. These principles are:**
 
 1. **The highest priority is to satisfy the customer through early and continuous delivery
 of valuable software.**
