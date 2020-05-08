@@ -1,9 +1,9 @@
 # **Everything on Agile and Scrum !**
 <br>
 
-<p align="center">
+<h align="center">
     <h1>Agile</h1>
-</p>
+</h>
 
 ## What is Agile?
 
@@ -71,3 +71,35 @@ emerge from self-organizing teams.**
 1. **At regular intervals, the team reflects on how
 to become more effective, then tunes and adjusts
 its behavior accordingly.**
+
+<h align="center">
+    <h1>Scrum</h1>
+</h>
+
+## What is Scrum?
+
+Scrum is a framework that helps teams work together, and to get work done.
+
+It encourages teams to learn through experiences, self-organise while working on a problem, and reflect on their wins and losses to continuously improve, using failures as a learning experience in order to springboard off them and move towards success.
+
+Principles and lessons of scrum can be applied to all kinds of teamwork; however it is prominent in software development.
+
+Scrum describes a set of meetings, tools, and roles that work together to help teams structure and manage their work. Customers can sometimes stray from scrum fundamentals to fit their specific needs.
+
+## Sprints
+
+A sprint is a short, time-boxed period where a Scrum team works to complete a set amount of work. They are at the very heart of Scrum and Agile methodologies.
+
+A product is typically built in a series of iterations that break down big complex projects into smaller pieces. This makes projects more manageable, allows teams to ship high quality work faster and more frequently and gives them more flexibility to adapt and change. This is what a sprint is.
+
+Sprint helps teams to follow the agile principle of “delivering working software frequently” as well as live the agile value of “responding to change over following a plan.”
+
+**How to plan and execute Scrum sprints:**
+
+![Representation of Scrum Sprints](https://startinfinity.s3.us-east-2.amazonaws.com/t/54ksa0Is7WiztNXeqL0fI0snREVVHLlcOZwLaSBH.png)
+
+## Sprint Planning
+
+Sprint planning, as the name suggests, is used to plan an upcoming sprint. Sprint planning is typically the first step in Scrum which creates the starting line for a sprint by setting the agenda and focal point. Sprint planning is a collaborative event where a number of things are decided. During sprint planning, the team answers some questions: What work can get done in this sprint (what is the sprint goal) and how will the chosen work get done? How long is the time box going to be? What is the starting point for the planned sprint going to be?
+
+![Representation of Sprint Planning](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2017-03/Sprint%20Planning_0.png)
