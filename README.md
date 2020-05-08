@@ -24,12 +24,13 @@ Individuals and Interactions | Over Processes and Tools
 Working Software | Over Comprehensive Documentation
 Customer Collaboration | Over Contract Negotiation
 Responding to Change | Over Following a Plan
+
 <br>
 While there **is** value in the items on the right, the items on the left are valued **more**
 
 ## The 12 Principles of Agile
 
-* **There are 12 prominent principles to consider for Agile. These principles are:**
+**There are 12 prominent principles to consider for Agile. These principles are:**
 
 1. **The highest priority is to satisfy the customer through early and continuous delivery
 of valuable software.**
@@ -94,7 +95,7 @@ A product is typically built in a series of iterations that break down big compl
 
 Sprint helps teams to follow the agile principle of “delivering working software frequently” as well as live the agile value of “responding to change over following a plan.”
 
-**How to plan and execute Scrum sprints:**
+**How to plan and execute Scrum Sprints:**
 
 ![Representation of Scrum Sprints](https://startinfinity.s3.us-east-2.amazonaws.com/t/54ksa0Is7WiztNXeqL0fI0snREVVHLlcOZwLaSBH.png)
 
@@ -103,3 +104,52 @@ Sprint helps teams to follow the agile principle of “delivering working softwa
 Sprint planning, as the name suggests, is used to plan an upcoming sprint. Sprint planning is typically the first step in Scrum which creates the starting line for a sprint by setting the agenda and focal point. Sprint planning is a collaborative event where a number of things are decided. During sprint planning, the team answers some questions: What work can get done in this sprint (what is the sprint goal) and how will the chosen work get done? How long is the time box going to be? What is the starting point for the planned sprint going to be?
 
 ![Representation of Sprint Planning](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2017-03/Sprint%20Planning_0.png)
+
+## Product Backlogs
+
+A product backlog is a prioritised list of work for the development team. The most important items are shown at the top of the product backlog so that the team knows what to prioritise and deliver first. 
+
+A roadmap is a plan of action for how a product or solution will evolve over time. A team’s roadmap and requirements (requirements outline the product’s purpose, features, functionalities and behaviour) are the foundation of product backlog.
+
+## Sprint Reviews
+
+Sprint reviews are a time to ask questions, try new features, and give feedback. To have a successful sprint review (and sprint), teams need to develop a clear culture of how to deliver the work and what it means to be “done” or what it means for work to be completed.
+
+During sprint reviews, it is also beneficial to celebrate the team and the successful work being done to continue moving towards success and energise the team by celebrating accomplishments.
+
+## Sprint Reviews
+
+Sprint reviews are a time to ask questions, try new features, and give feedback. To have a successful sprint review (and sprint), teams need to develop a clear culture of how to deliver the work and what it means to be “done” or what it means for work to be completed.
+
+During sprint reviews, it is also beneficial to celebrate the team and the successful work being done to continue moving towards success and energise the team by celebrating accomplishments.
+
+## Daily Stand-ups
+
+A daily stand-up (also known as a daily scrum) is a period of time during a sprint where the team checks in about how the work is progressing. The purpose of a daily scrum is for members of the team to point out any “blockers” and challenges that are preventing them from accomplishing a goal, and therefore may impact the team’s ability to deliver the sprint goal on time.
+
+## Retrospectives
+
+A retrospective is anytime the team reflects on the past in order to improve and have more success in the future. It is simply a process of looking back at previous work experiences, the results which came from them and how you can learn from them to improve on upcoming work.
+
+## Roles
+
+Scrum is made up of three main roles: the product owner, scrum master and the development team members. Scrum roles are not job titles. Any job title can perform one of the roles in Scrum.
+
+* **The Product Owner**
+
+The purpose of the product owner is to ensure that the teams are delivering the most value. The product owner tells the development team what is important to deliver. In the role of the product owner, it is important to take in several inputs such as; understand the customer’s needs, understand the value that the Scrum team is delivering to the customer, balance the needs of other stakeholders. Considering this, the product owner takes these inputs and prioritises the work based on that.
+
+* **The Scrum Master**
+
+The Scrum master is a facilitator of Scrum, a servant-leader for the Scrum team. Essentially, Scrum masters act as coaches for the rest of the team, committed to the Scrum foundation and values while remaining flexible and open to opportunities for the team to improve their workflow. Scrum masters promote and support implementation of scrum in a project by helping members of the team understand Scrum theory, practices, rules, and values and ensuring it is continuously being implemented. In summary, the scrum master is responsible for gluing everything together, ensuring that Scrum is being done well.
+
+* **The Development Team**
+
+The Development team consists of several members. These members work in a collaborative effort to execute Sprints and work together in order to accomplish Scrum successfully. They also take in input from the product owner and advice from the Scrum master in order to steer towards the right direction.
+
+
+## Scrum of Scrums
+
+The larger a team size, the more difficult communication becomes between team members, making it more difficult to maintain a common purpose and create trust. The purpose of Scrum of Scrums is to arrange smaller, independent teams in order to reduce communication paths and therefore maintain a common purpose.
+
+![Visual Representation for Scrum of Scrums](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-4206-3_53/MediaObjects/470826_1_En_53_Figa_HTML.jpg)
