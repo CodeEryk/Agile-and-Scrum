@@ -21,7 +21,7 @@ Agile is really a collection of beliefs that teams can use for making decisions 
 The Agile Manifesto is built up of 12 principles, as well as some key values. It can be seen as the basis of Agile. It supports the idea that software can be developed better by valuing the items on the left side of the list below, more than the items on the right side.
 
 Individuals and Interactions | Over Processes and Tools
-**Working Software | Over Comprehensive Documentation
+Working Software | Over Comprehensive Documentation
 Customer Collaboration | Over Contract Negotiation
 Responding to Change | Over Following a Plan
 
@@ -99,7 +99,9 @@ Sprint helps teams to follow the agile principle of “delivering working softwa
 
 ![Representation of Scrum Sprints](https://startinfinity.s3.us-east-2.amazonaws.com/t/54ksa0Is7WiztNXeqL0fI0snREVVHLlcOZwLaSBH.png)
 
-**Image Source:** https://agdiwo.com/en/
+**Image Source:**
+
+https://agdiwo.com/en/
 
 ## Sprint Planning
 
@@ -107,7 +109,9 @@ Sprint planning, as the name suggests, is used to plan an upcoming sprint. Sprin
 
 ![Representation of Sprint Planning](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2017-03/Sprint%20Planning_0.png)
 
-**Image Source:** https://www.scrum.org/resources/what-is-sprint-planning
+**Image Source:**
+
+https://www.scrum.org/resources/what-is-sprint-planning
 
 ## Product Backlogs
 
@@ -158,4 +162,6 @@ The larger a team size, the more difficult communication becomes between team me
 
 ![Visual Representation for Scrum of Scrums](https://www.agilest.org/wp-content/uploads/2016/05/scrum-of-scrums-scaling.png)
 
-**Image Source:** https://www.agilest.org/scaled-agile/scrum-of-scrums/
+**Image Source:**
+
+https://www.agilest.org/scaled-agile/scrum-of-scrums/
