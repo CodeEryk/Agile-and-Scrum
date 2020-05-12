@@ -5,8 +5,8 @@ body {
 p {
     font-family: verdana;
     text-align: center;
-    word-wrap: break-word;
-    width: 100px;
+    word-wrap: normal;
+    width: 500px;
 }
 
 h1 {
