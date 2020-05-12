@@ -1,5 +1,5 @@
 body {
-    background: antiquewhite;
+    background-image: linear-gradient(45deg, #f5f0e9 25%, #e6e6e6 25%, #e6e6e6 50%, #f5f0e9 50%, #f5f0e9 75%, #e6e6e6 75%, #e6e6e6 100%);
 }
 
 p {
