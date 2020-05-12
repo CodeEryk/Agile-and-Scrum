@@ -6,7 +6,7 @@ p {
     font-family: verdana;
     text-align: center;
     word-wrap: normal;
-    width: 650px;
+    width: 700px;
     margin: auto;
 }
 
@@ -60,5 +60,5 @@ th, td {
 
 hr {
     border: 2px solid #eb5454;
-    width: 600xp;
+    width: 600px;
 }
