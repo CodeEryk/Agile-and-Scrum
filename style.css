@@ -33,6 +33,7 @@ ol {
 ul {
     font-weight: bold;
     margin: auto;
+    display: block;
 }
 
 .tablecenter {
