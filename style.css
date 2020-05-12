@@ -25,13 +25,14 @@ a {
     text-align: center;
 }
 
-ol, ul {
+ol {
     display: table;
     margin: 0 auto;
 }
 
 ul {
     font-weight: bold;
+    margin: auto;
 }
 
 .tablecenter {
