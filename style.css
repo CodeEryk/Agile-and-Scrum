@@ -32,8 +32,11 @@ ol {
 
 ul {
     font-weight: bold;
-    text-align: center;
-    list-style: inside;
+    list-style-position: inside;
+    margin: 0 auto;
+    position: relative;
+    text-align: left;
+    width: 400px;
 }
 
 .tablecenter {
