@@ -31,13 +31,13 @@ ol {
 }
 
 .parent {
-    width:200px;
-    margin:0 auto;
-    text-align:left;
+    text-align:center;
 }
 
 ul {
     font-weight: bold;
+    display:inline-block;
+    text-align:left;
 }
 
 .tablecenter {
