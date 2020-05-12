@@ -29,3 +29,7 @@ ol, ul {
        margin-left: auto;
        margin-right: auto;
 }
+
+centerTable {
+    text-align: center;
+}
