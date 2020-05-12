@@ -26,6 +26,10 @@ ol, ul {
     margin: 0 auto;
 }
 
+ul {
+    font-weight: bold;
+}
+
 .tablecenter {
     text-align: center;
     margin-left: auto;
