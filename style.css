@@ -32,8 +32,8 @@ ol {
 
 ul {
     font-weight: bold;
-    text-align: center;
-    list-style: inside;
+    display: inline-block;
+    text-align:left;
 }
 
 .tablecenter {
