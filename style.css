@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(45deg, #f5f0e9 25%, #e6e6e6 25%, #e6e6e6 50%, #f5f0e9 50%, #f5f0e9 75%, #e6e6e6 75%, #e6e6e6 100%);
+    background-image: linear-gradient(45deg, #d6d2d2 25%, #e0e0e0 25%, #e0e0e0 50%, #d6d2d2 50%, #d6d2d2 75%, #e0e0e0 75%, #e0e0e0 100%);
     background-size: 56.57px 56.57px;
 }
 
@@ -21,12 +21,14 @@ h2 {
 }
 
 a {
+    font-family: verdana;
     display: block;
     margin: 0 auto;
     text-align: center;
 }
 
 ol {
+    font-family: arial;
     display: table;
     margin: 0 auto;
 }
@@ -37,6 +39,7 @@ ol {
 
 ul {
     font-weight: bold;
+    font-family: verdana;
 }
 
 .tablecenter {
