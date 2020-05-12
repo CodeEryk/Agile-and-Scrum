@@ -30,14 +30,12 @@ ol {
     margin: 0 auto;
 }
 
-.parent {
-    text-align:center;
+.parent ul{
+    display:inline
 }
 
 ul {
     font-weight: bold;
-    display:inline-block;
-    text-align:left;
 }
 
 .tablecenter {
