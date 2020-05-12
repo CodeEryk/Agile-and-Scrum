@@ -63,5 +63,5 @@ hr {
     width: 80%; 
     margin: auto;
     height: 40px; 
-    background: linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -20px 0, linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -20px 0, linear-gradient(315deg, #ECEDDC 25%, transparent 25%), linear-gradient(45deg, #ECEDDC 25%, transparent 25%); background-size: 40px 40px; background-color: #EC173A;
+    background: linear-gradient(135deg, #ECEDDC 12%, transparent 12%) -10px 0, linear-gradient(225deg, #ECEDDC 12%, transparent 12%) -10px 0, linear-gradient(315deg, #ECEDDC 12%, transparent 12%), linear-gradient(45deg, #ECEDDC 12%, transparent 12%); background-size: 40px 40px; background-color: #EC173A;
 }
