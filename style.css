@@ -5,7 +5,11 @@ body {
 p {
     font-family: verdana;
     text-align: center;
+    word-wrap: normal;
     width: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h1 {
