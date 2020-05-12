@@ -5,6 +5,7 @@ body {
 p {
     font-family: verdana;
     text-align: center;
+    padding: 5px 15px 5px
 }
 
 h1 {
@@ -33,6 +34,7 @@ ul {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    font-size: 14px;
 }
 
 .center {
