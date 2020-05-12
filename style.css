@@ -59,5 +59,6 @@ th, td {
 }
 
 hr {
-    border: 1px solid #eb5454;
+    border: 2px solid #eb5454;
+    width: 600xp;
 }
