@@ -30,13 +30,13 @@ ol {
     margin: 0 auto;
 }
 
-ul {
+.parent {
+    text-align: center
+}
+
+.parent > ul {
+    display: inline-block;
     font-weight: bold;
-    list-style-position: inside;
-    margin: 0 auto;
-    position: relative;
-    text-align: left;
-    width: 25%;
 }
 
 .tablecenter {
